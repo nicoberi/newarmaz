@@ -1,4 +1,4 @@
-public abstract class Person implements iCall, iSendMessage {
+public abstract class Person implements ICall, ISendMessage {
     private String name;
     private String phoneNumber;
     private Phone phone;

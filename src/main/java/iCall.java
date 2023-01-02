@@ -1,3 +1,3 @@
-public interface iCall {
+public interface ICall {
     public String call();
 }
